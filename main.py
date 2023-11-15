@@ -27,7 +27,7 @@ def play_checkers():
     call_unpack()
     checkers_canvas_widget.pack(pady=100)
     snake_canvas_widget.pack_forget()
-
+#this is a test
 
 radio = tk.IntVar()
 
